@@ -36,10 +36,14 @@
 
 ### Documentation
 
-| 📦 Installation | 🎓 Tutorials | 💡 Concepts |
-|---|---|---|
-| Get set up fast and verify your environment.<br/>[Start here →](./docs/installation.md) | Hands-on, end-to-end guides from zero to plots.<br/>[Explore →](./docs/tutorials/index.md) | Key ideas and terminology behind the toolkit.<br/>[Read concepts →](./docs/concepts/index.md) |
+| 📦 Installation | ⚡ Quick start |
+|---|---|
+| Get set up fast and verify your environment.<br/>[Start here →](./docs/intro/installation.md) | Run your first analysis in 5 minutes.<br/>[Run it here →](./docs/intro/quick-start.md) |
 
-| 🛠️ How-tos | 🧬 API — immunarch | 🦋 API — immundata |
-|---|---|---|
-| Task-oriented recipes for common jobs.<br/>[Do it →](./docs/how-tos/index.md) | Multi-modal immune repertoire analytics.<br/>[API reference →](https://immunomind.github.io/immunarch/reference) | Unified layer for immune repertoire data.<br/>[API reference →](https://immunomind.github.io/immundata/reference) |
+| 🎓 Tutorials | 🛠️ How-tos |
+|---|---|
+| Hands-on, end-to-end guides from zero to plots.<br/>[Explore →](./docs/tutorials/single-cell.md) | Task-oriented recipes for common jobs.<br/><em>Under construction</em> |
+
+| 🧬 API — immunarch | 🦋 API — immundata |
+|---|---|
+| Multi-modal immune repertoire analytics.<br/>[API reference →](https://immunomind.github.io/immunarch/reference) | Unified layer for immune repertoire data.<br/>[API reference →](https://immunomind.github.io/immundata/reference) |
