@@ -38,11 +38,11 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="50%" valign="top"><h3>📦 Installation</h3>Get set up fast and verify your environment.<br/><a href="./docs/intro/installation.md">Start here →</a><br/><br/></td>
-<td width="50%" valign="top"><h3>⚡ Quick start</h3>Run your first analysis in 5 minutes.<br/><a href="./docs/intro/quick-start.md">Run it here →</a><br/><br/></td>
+<td width="50%" valign="top"><h3>📦 Installation</h3>Get set up fast and verify your environment.<br/><a href="https://immunomind.github.io/docs/intro/installation">Start here →</a><br/><br/></td>
+<td width="50%" valign="top"><h3>⚡ Quick start</h3>Run your first analysis in 5 minutes.<br/><a href="https://immunomind.github.io/docs/intro/quick-start">Run it here →</a><br/><br/></td>
 </tr>
 <tr>
-<td valign="top"><h3>🎓 Tutorials</h3>Hands-on, end-to-end guides from zero to plots.<br/><a href="./docs/tutorials/single-cell.md">Explore →</a><br/><br/></td>
+<td valign="top"><h3>🎓 Tutorials</h3>Hands-on, end-to-end guides from zero to plots.<br/><a href="https://immunomind.github.io/docs/tutorials/single-cell">Explore →</a><br/><br/></td>
 <td valign="top"><h3>🛠️ How-tos</h3>Task-oriented recipes for common jobs.<br/><em>Under construction</em><br/><br/></td>
 </tr>
 <tr>
