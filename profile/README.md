@@ -36,7 +36,7 @@
 
 ### Documentation
 
-<table width="100%">
+<table width="150%">
 <tr>
 <td width="50%" valign="top"><strong>📦 Installation</strong><br/>Get set up fast and verify your environment.<br/><a href="./docs/intro/installation.md">Start here →</a></td>
 <td width="50%" valign="top"><strong>⚡ Quick start</strong><br/>Run your first analysis in 5 minutes.<br/><a href="./docs/intro/quick-start.md">Run it here →</a></td>
