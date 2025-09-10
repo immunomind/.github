@@ -10,8 +10,6 @@
     <img alt="Ecosystem: ImmunoMind"
          src="https://img.shields.io/badge/ecosystem-ImmunoMind-orange?style=flat-square">
   </a>
-  |
-  <strong>immunarch:</strong>
   <a href="https://www.r-pkg.org/pkg/immunarch">
     <img alt="CRAN Downloads (all time)"
          src="https://cranlogs.r-pkg.org/badges/grand-total/immunarch">
@@ -20,8 +18,6 @@
     <img alt="Conda Total Downloads"
          src="https://anaconda.org/conda-forge/r-immunarch/badges/downloads.svg">
   </a>
-  |
-  <strong>immundata:</strong>
   <a href="https://www.r-pkg.org/pkg/immundata">
     <img alt="CRAN Downloads (all time)"
          src="https://cranlogs.r-pkg.org/badges/grand-total/immundata">
@@ -38,22 +34,12 @@
   Publication (coming soon...)
 </p>
 
-<div class="grid cards" markdown>
+### Documentation
 
--   :fontawesome-brands-r-project: :material-dna: **immunarch**
+| 📦 Installation | 🎓 Tutorials | 💡 Concepts |
+|---|---|---|
+| Get set up fast and verify your environment.<br/>[Start here →](./docs/installation.md) | Hands-on, end-to-end guides from zero to plots.<br/>[Explore →](./docs/tutorials/index.md) | Key ideas and terminology behind the toolkit.<br/>[Read concepts →](./docs/concepts/index.md) |
 
-    ---
-
-    Multi-modal immune repertoire analytics.
-
-    [:octicons-arrow-right-24: API reference](https://immunomind.github.io/immunarch/reference)
-
--   :fontawesome-brands-r-project: :material-butterfly: **immundata**
-
-    ---
-
-    Unified layer for immune repertoire data.
-
-    [:octicons-arrow-right-24: API reference](https://immunomind.github.io/immundata/reference)
-
-</div>
+| 🛠️ How-tos | 🧬 API — immunarch | 🦋 API — immundata |
+|---|---|---|
+| Task-oriented recipes for common jobs.<br/>[Do it →](./docs/how-tos/index.md) | Multi-modal immune repertoire analytics.<br/>[API reference →](https://immunomind.github.io/immunarch/reference) | Unified layer for immune repertoire data.<br/>[API reference →](https://immunomind.github.io/immundata/reference) |
