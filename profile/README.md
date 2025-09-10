@@ -39,15 +39,15 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top"><h3>📦 Installation</h3>Get set up fast and verify your environment.<br/><a href="./docs/intro/installation.md">Start here →</a><br/><br/></td>
-<td width="50%" valign="top"><strong>⚡ Quick start</strong><br/><br/>Run your first analysis in 5 minutes.<br/><a href="./docs/intro/quick-start.md">Run it here →</a><br/><br/></td>
+<td width="50%" valign="top"><h3>⚡ Quick start</h3>Run your first analysis in 5 minutes.<br/><a href="./docs/intro/quick-start.md">Run it here →</a><br/><br/></td>
 </tr>
 <tr>
-<td valign="top"><strong>🎓 Tutorials</strong><br/><br/>Hands-on, end-to-end guides from zero to plots.<br/><a href="./docs/tutorials/single-cell.md">Explore →</a><br/><br/></td>
-<td valign="top"><strong>🛠️ How-tos</strong><br/><br/>Task-oriented recipes for common jobs.<br/><em>Under construction</em><br/><br/></td>
+<td valign="top"><h3>🎓 Tutorials</h3>Hands-on, end-to-end guides from zero to plots.<br/><a href="./docs/tutorials/single-cell.md">Explore →</a><br/><br/></td>
+<td valign="top"><h3>🛠️ How-tos</h3>Task-oriented recipes for common jobs.<br/><em>Under construction</em><br/><br/></td>
 </tr>
 <tr>
-<td valign="top"><strong>🧬 API — immunarch</strong><br/><br/>Multi-modal immune repertoire analytics.<br/><a href="https://immunomind.github.io/immunarch/reference">API reference →</a><br/><br/></td>
-<td valign="top"><strong>🦋 API — immundata</strong><br/><br/>Unified layer for immune repertoire data.<br/><a href="https://immunomind.github.io/immundata/reference">API reference →</a><br/><br/></td>
+<td valign="top"><h3>🧬 API — immunarch</h3>Multi-modal immune repertoire analytics.<br/><a href="https://immunomind.github.io/immunarch/reference">API reference →</a><br/><br/></td>
+<td valign="top"><h3>🦋 API — immundata</h3>Unified layer for immune repertoire data.<br/><a href="https://immunomind.github.io/immundata/reference">API reference →</a><br/><br/></td>
 </tr>
 </table>
 </div>
